@@ -19,4 +19,4 @@ PUT /movies/{id} - Update an existing movie.<br>
 DELETE /movies/{id} - Delete a movie by its ID.<br>
 ## Tutorial Reference
 This project is based on the freeCodeCamp.org tutorial:
-[⌨️ (0:20:34) Build A CRUD API With Golang](https://www.youtube.com/watch?v=jFfo23yIWac)
+[⌨️ Build A CRUD API With Golang](https://www.youtube.com/watch?v=jFfo23yIWac)
